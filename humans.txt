@@ -1,9 +1,0 @@
-/* TEAM */
-Agency: BrandCraft.hub
-Contact: brandcraft.labstudio@gmail.com
-Instagram: @brandcraft.hub
-Location: Indonesia, India
-
-/* SITE */
-Last update: 2026/11/04
-Language: English
